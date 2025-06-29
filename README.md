@@ -46,5 +46,5 @@ The app uses the `train.csv` file from the [Kaggle Titanic Challenge](https://ww
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/titanic-eda-streamlit.git
+git clone https://github.com/shivcoderss/titanic-eda-streamlit.git
 cd titanic-eda-streamlit
