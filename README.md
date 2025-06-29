@@ -4,6 +4,12 @@ This project provides an **interactive EDA (Exploratory Data Analysis)** interfa
 
 ---
 
+## 🌐 Live App
+
+👉 [Click here to view the deployed Streamlit app](https://titanic-eda-app1.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 The Titanic dataset is a classic machine learning dataset provided by Kaggle. It contains information on passengers aboard the Titanic, such as age, gender, passenger class, fare, and whether they survived.
@@ -37,7 +43,7 @@ This Streamlit app provides:
 
 ## 📂 Dataset
 
-The app uses the `train.csv` file from the [Kaggle Titanic Challenge](https://www.kaggle.com/competitions/titanic). Make sure to rename the file as `titanic.csv` and place it in the root folder.
+The app uses the `train.csv` file from the [Kaggle Titanic Challenge](https://www.kaggle.com/competitions/titanic).
 
 ---
 
