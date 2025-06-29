@@ -26,6 +26,7 @@ st.pyplot(fig)
 st.subheader("💰 Fare Box Plot")
 fig, ax = plt.subplots()
 sns.boxplot(x=df['Fare'], ax=ax)
+plt.xlim(0, 100)
 st.pyplot(fig)
 
 st.subheader("👥 Survival by Sex")
